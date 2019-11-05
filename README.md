@@ -38,3 +38,9 @@ Tutorial notebooks, cheatsheets and resources for Pangeo.
 * Conda 
 * Git 
 * GitHub
+
+## Cheat Sheets
+* Basic tools
+* Plotting Libraries
+* Dashboarding resources
+* Collaboration and Version Control 
